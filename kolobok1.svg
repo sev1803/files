@@ -1,6 +1,6 @@
 <svg width="700" height="500" class="svg-pic" xmlns="http://www.w3.org/2000/svg">
     <ellipse cx="250" cy="400" rx="65" ry="15" fill="#D3D3D3" ></ellipse>
-    <ellipse cx="200" cy="270" rx="60" ry="23" fill="#ffa500" class="ellipse-rotated"></ellipse>
+    <ellipse cx="200" cy="270" rx="60" ry="23" fill="#ffa500" style="transform: rotate(16deg)"></ellipse>
     <polygon points="65,298 88,323 99,290" fill="#ffffff"></polygon>
     <circle cx="250" cy="300" r="100" fill="#ffa500"></circle>
     <polygon points="200,190 190,220 235,205" fill="#ffa500"></polygon>
